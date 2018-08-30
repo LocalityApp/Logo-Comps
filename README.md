@@ -2,17 +2,17 @@
 Potential artwork for the app
 
 ## Font Names
-Alone on the Earth
+### Alone on the Earth
 <img src="./Font-AloneOnTheEarth.png">
 
-Closure
+### Closure
 <img src="./Font-Closure.png">
 
-LicensePI8
+### LicensePI8
 <img src="./Font-LicensePI8.png">
 
-My Girl is Retro
-<img src="./Font-MyGirlIsRetro">
+### My Girl is Retro
+<img src="./Font-MyGirlIsRetro.png">
 
-Urban Jungle
+### Urban Jungle
 <img src="./Font-UrbanJungle.png">
